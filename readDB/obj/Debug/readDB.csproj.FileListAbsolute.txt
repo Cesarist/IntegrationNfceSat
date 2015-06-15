@@ -1,0 +1,4 @@
+E:\Projetos Extras\IntegrationNfceSat\readDB\bin\Debug\readDB.dll
+E:\Projetos Extras\IntegrationNfceSat\readDB\bin\Debug\readDB.pdb
+E:\Projetos Extras\IntegrationNfceSat\readDB\obj\Debug\readDB.dll
+E:\Projetos Extras\IntegrationNfceSat\readDB\obj\Debug\readDB.pdb

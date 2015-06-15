@@ -1,0 +1,4 @@
+E:\Projetos Extras\IntegrationNfceSat\Notification\bin\Debug\Notification.dll
+E:\Projetos Extras\IntegrationNfceSat\Notification\bin\Debug\Notification.pdb
+E:\Projetos Extras\IntegrationNfceSat\Notification\obj\Debug\Notification.dll
+E:\Projetos Extras\IntegrationNfceSat\Notification\obj\Debug\Notification.pdb

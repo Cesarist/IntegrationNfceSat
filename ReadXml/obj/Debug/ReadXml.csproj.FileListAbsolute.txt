@@ -1,0 +1,4 @@
+E:\Projetos Extras\IntegrationNfceSat\ReadXml\bin\Debug\ReadXml.dll
+E:\Projetos Extras\IntegrationNfceSat\ReadXml\bin\Debug\ReadXml.pdb
+E:\Projetos Extras\IntegrationNfceSat\ReadXml\obj\Debug\ReadXml.dll
+E:\Projetos Extras\IntegrationNfceSat\ReadXml\obj\Debug\ReadXml.pdb

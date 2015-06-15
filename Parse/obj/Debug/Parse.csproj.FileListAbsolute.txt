@@ -1,0 +1,7 @@
+E:\Projetos Extras\IntegrationNfceSat\Parse\bin\Debug\Parse.dll
+E:\Projetos Extras\IntegrationNfceSat\Parse\bin\Debug\Parse.pdb
+E:\Projetos Extras\IntegrationNfceSat\Parse\bin\Debug\Integration.dll
+E:\Projetos Extras\IntegrationNfceSat\Parse\bin\Debug\Integration.pdb
+E:\Projetos Extras\IntegrationNfceSat\Parse\obj\Debug\Parse.csprojResolveAssemblyReference.cache
+E:\Projetos Extras\IntegrationNfceSat\Parse\obj\Debug\Parse.dll
+E:\Projetos Extras\IntegrationNfceSat\Parse\obj\Debug\Parse.pdb

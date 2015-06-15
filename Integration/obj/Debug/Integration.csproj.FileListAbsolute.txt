@@ -1,0 +1,4 @@
+E:\Projetos Extras\IntegrationNfceSat\Integration\bin\Debug\Integration.dll
+E:\Projetos Extras\IntegrationNfceSat\Integration\bin\Debug\Integration.pdb
+E:\Projetos Extras\IntegrationNfceSat\Integration\obj\Debug\Integration.dll
+E:\Projetos Extras\IntegrationNfceSat\Integration\obj\Debug\Integration.pdb
